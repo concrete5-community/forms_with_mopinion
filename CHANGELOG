@@ -1,0 +1,14 @@
+1.0
+- Approved by PRB.
+
+0.9.2
+- Change name to "Forms with Mopinion".
+- Change app icon.
+- Change namespaces, settings, occurrences, page names.
+- Use page view event to inject the embed code.
+
+0.9.1
+- Update app icon.
+
+0.9.0
+- Initial PRB submission.
